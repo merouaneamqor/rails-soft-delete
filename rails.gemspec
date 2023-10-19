@@ -32,7 +32,7 @@ Gem::Specification.new do |s|
   s.add_dependency "activesupport", version
   s.add_dependency "actionpack",    version
   s.add_dependency "actionview",    version
-  s.add_dependency "activemodel", ">= 5.1", "< 7.2"
+  s.add_dependency "activemodel",   ">= 5.1", "< 7.2"
   s.add_dependency "activerecord",  version
   s.add_dependency "actionmailer",  version
   s.add_dependency "activejob",     version
